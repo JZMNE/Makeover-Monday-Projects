@@ -17,11 +17,11 @@ Here is a link to their website: [MakeOverMonday](https://makeovermonday.co.uk/)
 
 This repository is organized to provide easy navigation and access to the visualizations created during the Makeover Monday Challenge. Here's a brief overview of the repository structure:
 
-- **[Week_X](Week_X):** This directory contains the visualizations and relevant files for the specific week's challenge. Each week is appropriately labeled for quick reference.
+- **[Week_X_Title](Week_X_Title):** This directory contains the visualizations and relevant files for the specific week's challenge. Each week is appropriately labelled for quick reference.
 
 - **[Images](Images):** Explore this directory to view snapshots and high-resolution images of the visualizations. These images capture the essence of the data transformations and insights gained during the Makeover Monday Challenge.
 
-- **[Data](Data):** Find the original datasets as well as an augmented datasetfor each challenge in this directory. It's essential to have access to the raw data to understand the context and perform your own analyses.
+- **[Data](Data):** Find the original datasets as well as an augmented dataset for each challenge in this directory. It's essential to have access to the raw data to understand the context and perform your analyses.
 
 - **[Scripts](Scripts):** If applicable, this directory may contain any custom scripts or code snippets used during the data visualization process.
 

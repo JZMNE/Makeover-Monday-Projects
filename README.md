@@ -1,8 +1,5 @@
 <h1 align="center" style="color:MediumSeaGreen;"> <b> Makeover Monday Challenge </b></h1>
 
-<img src="https://www.tableau.com/sites/default/files/2023-01/TableaPublicCE.png" alt="Tableau Public" width="1100" align="center">
-
-
 ## Overview
 
 Welcome to my Makeover Monday Challenge repository! Here, you will find a collection of engaging and insightful visualizations created as a part of my participation in the Makeover Monday Challenge. The Makeover Monday Challenge is a fantastic initiative that provides a platform to explore, analyze, and visualize diverse datasets, ultimately enhancing data visualization skills.

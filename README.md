@@ -7,6 +7,10 @@
 
 Welcome to my Makeover Monday Challenge repository! Here, you will find a collection of engaging and insightful visualizations created as a part of my participation in the Makeover Monday Challenge. The Makeover Monday Challenge is a fantastic initiative that provides a platform to explore, analyze, and visualize diverse datasets, ultimately enhancing data visualization skills.
 
+## Latest
+<img src="Projects/Week 5_Cost of Study in Europe/Cost of study in Europe.png" alt="" width="1100" align="center">
+
+
 ## About Makeover Monday
 
 Makeover Monday is a weekly social data project that involves the visualization of datasets. Every week, a new dataset is shared, and participants are encouraged to reimagine and redesign the visual representation of the data. This collaborative effort not only helps participants improve their data visualization skills but also fosters a sense of community among data enthusiasts.
